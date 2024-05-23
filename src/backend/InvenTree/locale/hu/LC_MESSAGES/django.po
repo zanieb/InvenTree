@@ -14318,4 +14318,3 @@ msgstr "Jogosultság tételek szerkesztéséhez"
 #: users/models.py:413
 msgid "Permission to delete items"
 msgstr "Jogosultság tételek törléséhez"
-
